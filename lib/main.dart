@@ -111,7 +111,7 @@ class TakePictureScreenState extends State<TakePictureScreen> {
   }
 }
 
-// 撮影した写真を表示する画面
+// 撮影した写真を表示する画面ここを修正したい
 class DisplayPictureScreen extends StatelessWidget {
   final String imagePath;
 
